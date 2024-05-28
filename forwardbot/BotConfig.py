@@ -1,8 +1,8 @@
 from os import environ
 class Config(object):
-    API_ID = environ.get("API_ID", "20204401")
-    API_HASH = environ.get("API_HASH", "6ec374e7e7492de06a9b22bb746bd20f")
-    BOT_TOKEN = environ.get("BOT_TOKEN", "6922036916:AAHod6WEiUf70eq6ytG2P1uRrk6__uQ-xHU")
+    API_ID = environ.get("API_ID", "23445865")
+    API_HASH = environ.get("API_HASH", "350af94c05757b670d2a3825975da0b3")
+    BOT_TOKEN = environ.get("BOT_TOKEN", "7378392116:AAHXjaKcxEAbxxtP4oUzfBZPnHeqD7RgliQ")
     STRING_SESSION = environ.get("STRING_SESSION", "")
     SUDO_USERS = environ.get("SUDO_USERS", "6168162777 6366990600")
     COMMAND_HAND_LER = environ.get("COMMAND_HAND_LER", "^/")
@@ -26,5 +26,5 @@ class Config(object):
     🔻 **Command :** /uptime
     **Usage :** Check uptime of Bot.
     
-    ⭕ **ʙᴏᴛ ɪs ᴄʀᴇᴀᴛᴇᴅ ʙʏ** **@l_abani**
+    ⭕ **ʙᴏᴛ ɪs ᴄʀᴇᴀᴛᴇᴅ ʙʏ** **@x_O4i**
     """
